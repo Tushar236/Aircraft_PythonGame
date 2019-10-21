@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 11 11:05:00 2013
-
-@author: Leo
-"""
 
 from sys import exit
 
