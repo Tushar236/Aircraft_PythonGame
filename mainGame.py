@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 from sys import exit
 
 import pygame
