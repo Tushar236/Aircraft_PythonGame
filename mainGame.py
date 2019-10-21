@@ -175,7 +175,7 @@ while running:
         if key_pressed[K_d] or key_pressed[K_RIGHT]:
             player.moveRight()
 
-#Brought To You By code-projects.org
+
 
 font = pygame.font.Font(None, 48)
 text = font.render('Score: '+ str(score), True, (255, 0, 0))
